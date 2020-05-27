@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1590585612 source:c:\users\duy duong\desktop\game02\main.cpp
+	"CommonFunc.h"
+	"BaseObj.h"
+	"MainObj.h"
+	"ImpTimer.h"
+	"Food.h"
+	"Text.h"
+	"Mine.h"
+	"Blood.h"
+
+1590520377 source:c:\users\duy duong\desktop\game02\baseobj.cpp
+	"BaseObj.h"
+
+1590561431 c:\users\duy duong\desktop\game02\baseobj.h
+	"CommonFunc.h"
+
+1590585518 c:\users\duy duong\desktop\game02\commonfunc.h
+	<iostream>
+	<SDL.h>
+	<string>
+	<windows.h>
+	<SDL_image.h>
+	<SDL.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<vector>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1589789958 source:c:\users\duy duong\desktop\game02\commonfunc.cpp
+	"CommonFunc.h"
+
+1588835922 c:\users\duy duong\desktop\game02\map.h
+	"CommonFunc.h"
+	"BaseObj.h"
+
+1588835922 source:c:\users\duy duong\desktop\game02\map.cpp
+	"Map.h"
+	<errno.h>
+
+1590541844 c:\users\duy duong\desktop\game02\mainobj.h
+	"CommonFunc.h"
+	"BaseObj.h"
+
+1590522011 source:c:\users\duy duong\desktop\game02\mainobj.cpp
+	"MainObj.h"
+
+1587919639 source:c:\users\duy duong\desktop\game02\imptimer.cpp
+	"ImpTimer.h"
+	"CommonFunc.h"
+
+1587918944 c:\users\duy duong\desktop\game02\imptimer.h
+
+1590575755 source:c:\users\duy duong\desktop\game02\food.cpp
+	"Food.h"
+
+1590563797 c:\users\duy duong\desktop\game02\food.h
+	"CommonFunc.h"
+	"MainObj.h"
+
+1589950796 c:\users\duy duong\desktop\game02\text.h
+	"CommonFunc.h"
+	"BaseObj.h"
+
+1590496592 source:c:\users\duy duong\desktop\game02\text.cpp
+	"Text.h"
+
+1590541844 c:\users\duy duong\desktop\game02\mine.h
+	"CommonFunc.h"
+	"MainObj.h"
+
+1590541844 source:c:\users\duy duong\desktop\game02\mine.cpp
+	"Mine.h"
+
+1590564259 c:\users\duy duong\desktop\game02\blood.h
+	"CommonFunc.h"
+	"BaseObj.h"
+
+1590564552 source:c:\users\duy duong\desktop\game02\blood.cpp
+	"Blood.h"
+
+1590518401 c:\users\duy duong\desktop\game02\multipurpose.h
+	"CommonFunc.h"
+	"Food.h"
+
+1590518439 source:c:\users\duy duong\desktop\game02\multipurpose.cpp
+	"MultiPurpose.h"
+
