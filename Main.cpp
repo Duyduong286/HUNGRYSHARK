@@ -1,7 +1,6 @@
 #include "CommonFunc.h"
 #include "BaseObj.h"
 #include "MainObj.h"
-#include "ImpTimer.h"
 #include "Food.h"
 #include "Text.h"
 #include "Mine.h"
